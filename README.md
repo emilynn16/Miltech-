@@ -39,7 +39,8 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
+<img width="520" alt="image" src="https://github.com/emilynn16/Miltech-/assets/143456900/7e16f857-171b-44a0-b572-43870fe9caa9">
+
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
