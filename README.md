@@ -160,6 +160,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | - | - | - |
 |Product Owner| Gabriela Liliane | [![Linkedin Badge](https://www.linkedin.com/in/gabriela-liliane-976001140/)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Scrum Master| Charles Souza | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| Daniel Scarpeli | [![Linkedin Badge](https://www.linkedin.com/in/emilyn-almeida-0a6143247/)] [![GitHub Badge](https://github.com/Scarpeli)]()|
-|Team Member| Emilyn Almeida | [![Linkedin Badge](https://www.linkedin.com/in/emilyn-almeida-0a6143247/)] [![GitHub Badge](https://github.com/emilynn16)]()|
-|Team Member| Caio Henrique | [![Linkedin Badge](https://www.linkedin.com/in/emilyn-almeida-0a6143247/)] [![GitHub Badge](https://github.com/caiohsr10)]()|
+|Team Member| Daniel Scarpeli | [![Linkedin Badge](https://www.linkedin.com/in/emilyn-almeida-0a6143247/)]() [![GitHub Badge](https://github.com/Scarpeli)]()|
+|Team Member| Emilyn Almeida | [![Linkedin Badge](https://www.linkedin.com/in/emilyn-almeida-0a6143247/)]() [![GitHub Badge](https://github.com/emilynn16)]()|
+|Team Member| Caio Henrique | [![Linkedin Badge](https://www.linkedin.com/in/emilyn-almeida-0a6143247/)]() [![GitHub Badge](https://github.com/caiohsr10)]()|
