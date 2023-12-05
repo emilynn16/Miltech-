@@ -48,16 +48,13 @@ Sendo o nosso objetivo pricipal, os calculos de capacidade.
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Colocar o vídeo da apresentação
 
-
-[![SPRINT 1](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+[![SPRINT 1](https://www.youtube.com/watch?v=rlL2MF5uN1A)]
 
 
 ## Sprint 2
->Colocar o vídeo da apresentação
 
-[![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+[![SPRINT 2](https://www.youtube.com/watch?v=aWd8A_3joW0)]
 
 ## Sprint 3
 >Colocar o vídeo da apresentação
@@ -83,7 +80,9 @@ Vídeo com a apresentação final da API do "semestre/ano"
 > Descreva aqui a parte do MVP referente a cada Sprint
 
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+> ChatGPT
+> Sites Onlines
+> Calculadora
   
 ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
@@ -111,7 +110,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 ## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+>Falamos sobre as capacidades:
 
 ## Sprint 2 - Desenvolvimento do Projeto
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
@@ -124,37 +123,46 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
 
 ## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
+<Programação de Computadores
+<Conhecimento em Software Específico
+<Habilidades Matemáticas
+<Gestão de Projetos
+<Habilidades Técnicas em TI
+
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+|  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
  
-</details>
 
 ## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
+<Comunicação
+<Trabalho em Equipe
+<Liderança
+<Resolução de Problemas
+<Empatia
+<Adaptabilidade
+<Gestão do Tempo
+<Resiliência
+
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+|  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|  | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
+|  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 
-</details>
 
 
 # Autores
