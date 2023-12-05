@@ -77,15 +77,24 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+> Características Essenciais (ver se os calculos são os mais simples e diretas possíveis);
+> Validação de Hipóteses;
+> Experiência do pessoal do grupo;
+> Recursos.
 
 ### Tecnológias Específicas/Apoio
-> ChatGPT
-> Sites Onlines
-> Calculadora
+> ChatGPT;
+> Sites Onlines;
+> Calculadora.
   
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+> Adaptação à Mudança;
+> Aprendizado Contínuo;
+> Inovação;
+> Colaboração e Conectividade;
+> Pensamento Analítico;
+> Resolução de Problemas;
+> Responsabilidade.
 
 # Cronograma das Sprints
 
