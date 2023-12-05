@@ -23,7 +23,7 @@ Uso de estratégias para entender o problema, conceber uma solução viável ao 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 28/08/2023 | concluido| [Ver Relatório](<img width="718" alt="image" src="https://github.com/emilynn16/Miltech-/assets/143456900/a2028ae3-8259-4e83-96ce-7f0cdcd1cddc">
+|Kick Off | 28/08/2023 | concluido| [Ver Relatório](img width="718" alt="image" src="https://github.com/emilynn16/Miltech-/assets/143456900/a2028ae3-8259-4e83-96ce-7f0cdcd1cddc"
 ) | 
 |01 | 18/09/2023 | concluido| [Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/MILTECH/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B49a7de14-fc22-4173-ac88-dea4b84d04e4%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1701734881404&web=1) | 
 |02|  09/10/2023| concluido |[Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/MILTECH/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Badeb918c-3f2f-4e81-80de-6c6176058fbf%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1701734901482&web=1) | 
