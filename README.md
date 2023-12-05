@@ -43,11 +43,13 @@ Sprint | Previsão | Status| Histórico|
 
 # Objetivo do Projeto
 >Fornece uma visão integrada do processo de desenvolvimento do produto, desde as etapas iniciais de geração de ideias, desenvolvimento até a preparação e apresentação das sprints.
+Sendo o nosso objetivo pricipal, os calculos de capacidade.
 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
 >Colocar o vídeo da apresentação
+
 
 [![SPRINT 1](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
@@ -158,8 +160,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| Gabriela Liliane | [![Linkedin Badge](https://www.linkedin.com/in/gabriela-liliane-976001140/)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner| Gabriela Liliane | (https://www.linkedin.com/in/gabriela-liliane-976001140/)]() (https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Scrum Master| Charles Souza | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| Daniel Scarpeli | [![Linkedin Badge]]() [![GitHub Badge](https://github.com/Scarpeli)]()|
-|Team Member| Emilyn Almeida | (https://www.linkedin.com/in/emilyn-almeida-0a6143247/)]() [![GitHub Badge](https://github.com/emilynn16)]()|
-|Team Member| Caio Henrique | [![Linkedin Badge](https://www.linkedin.com/in/caio-henrique-4828121a3/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]() [![GitHub Badge](https://github.com/caiohsr10)]()|
+|Team Member| Daniel Scarpeli | () (https://github.com/Scarpeli)]()|
+|Team Member| Emilyn Almeida | (https://www.linkedin.com/in/emilyn-almeida-0a6143247/)]() (https://github.com/emilynn16)]()|
+|Team Member| Caio Henrique | (https://www.linkedin.com/in/caio-henrique-4828121a3/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]() (https://github.com/caiohsr10)]()|
