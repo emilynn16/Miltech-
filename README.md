@@ -119,16 +119,32 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 ## Sprint 1 - Concepção
->Falamos sobre as capacidades:
+> Falamos sobre os tipos de capacidades;
+> Como aumentar elas;
+> Aumentar a produtividade;
+> E concluimos que a otimização de processos pensa em tornar a linha de produção mais eficiente, por meio de análise e ferramentas que ajude a reduzir tempo e custo, bem como gargalos produtivos.​ Primeiro é preciso coletar os dados sobre os desperdícios no processos da empresas para atuar com um plano de ação para o aumento da produtividade e otimização de processos. 
 
 ## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-      
+> Falamos sobre as perdas planejadas, com os dados base;
+> Calculamos a capacidade disponivel e a capacidade real;
+> Quantas peças são feitas por horas, minutos produzidas na maquina por dia, semanas e mês;
+> Vimos qual é o gargalo;
+> E sugerimos que não são todas as pessoas que operam as plissadoras pensamos em começar a eliminar os gargalos como: Treinar colaboradores que não tem acesso nas plissadoras, por que se acontecer de algum operador se ausentar a máquina não irá ficar parada isso faz com que não para a produção.
+
 ## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+> Tivemos uma reunião com a responsável da empresa, esclareceu nossas duvidas e fizemos os calculos corretos;
+> O gargalo permaneceu o mesmo;
+> Sugerimos colocar mais uma plissadora, que seria o gargalo;
+> E concluimos que os fatores apresentados nesta Sprint, auxiliam na tomada de decisão sobre novos investimentos, fornecendo uma ferramenta bastante útil na identificação de áreas produtivas sobrecarregadas. ​Conhecendo-se os gargalos da produção, é possível minimizar seus efeitos através de uma política de investimentos adequada para cada caso. ​De maneira geral, esse resultado consiste numa vantagem competitiva importante sobre outras empresas que possuem falhas na determinação da sua real capacidade produtiva.
       
 ## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+> Reforçamos os calculos e o gargalo;
+> Fizemos a proposta de realizar treinamentos mensais ou semanais aos sábados, que capacite os funcionários a manusear as plissadoras e colagem.
+ E  contrato temporário com mão de obra especializada;​
+Contrato temporário com funcionários aposentados;​
+Contrato CLT- com tempo não determinado com mão de obra especializada.
+> Falamos sobre o POP que é o procedimento operacional padrão;
+> E concluimos que após todas as sugestões já apresentadas nas sprints anteriores como adquirir uma nova plisadora, aumentar a capacidade efetiva e o treinamentos dos colaboradores, se forem implementadas na empresa juntamente com a nossa nova sugestão do POP, que é um documento que registra o passo a passo de um processo, garantindo que qualquer pessoa consiga realizá-lo sem grandes problemas. ​Freudenberg irá garantir que a execução das atividades aconteça de forma padronizada e com inúmeros outros benefícios a empresa. ​Isso consiste numa vantagem competitiva sobre as demais empresas concorrentes no mercado.
 
 
 # Competências desenvolvidas
