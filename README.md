@@ -125,43 +125,29 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
-<Programação de Computadores
-<Conhecimento em Software Específico
-<Habilidades Matemáticas
-<Gestão de Projetos
-<Habilidades Técnicas em TI
-
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Programação de Computadores | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Conhecimento em Software Específico | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Habilidades Matemáticas | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Habilidades Técnicas em TI | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
  
 
 ## Soft Skill (saber comportamental)
-<Comunicação
-<Trabalho em Equipe
-<Liderança
-<Resolução de Problemas
-<Empatia
-<Adaptabilidade
-<Gestão do Tempo
-<Resiliência
 
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-|  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Trabalho em Equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Liderança | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Resolução de Problemas | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Empatia | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gestão do Tempo | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 
 
 
