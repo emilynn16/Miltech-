@@ -20,16 +20,16 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  dd/mm/aaaa| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-|Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 28/08/2023 | concluido| [Ver Relatório](<img width="718" alt="image" src="https://github.com/emilynn16/Miltech-/assets/143456900/a2028ae3-8259-4e83-96ce-7f0cdcd1cddc">
+) | 
+|01 | 18/09/2023 | concluido| [Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/MILTECH/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B49a7de14-fc22-4173-ac88-dea4b84d04e4%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1701734881404&web=1) | 
+|02|  09/10/2023| concluido |[Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/MILTECH/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Badeb918c-3f2f-4e81-80de-6c6176058fbf%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1701734901482&web=1) | 
+|03| 30/10/2023 | concluido|[Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/MILTECH/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bf96898f6-434f-4c78-a26c-21a97320269f%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1701734917718&web=1) | 
+|04| 20/11/2023 | concluido |[Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/MILTECH/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bbde2d8c7-73a5-454a-8f70-4b5838e43705%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1701734267990&web=1) |
+|Feira de Soluções|12/12/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 > Possíveis status: a fazer, em progresso e concluido
 
@@ -41,13 +41,8 @@ Sprint | Previsão | Status| Histórico|
 # Equipe
 <img width="520" alt="image" src="https://github.com/emilynn16/Miltech-/assets/143456900/7e16f857-171b-44a0-b572-43870fe9caa9">
 
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
-</p>
-
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+>Fornece uma visão integrada do processo de desenvolvimento do produto, desde as etapas iniciais de geração de ideias, desenvolvimento até a preparação e apresentação das sprints.
 
 # Funcionalidades e Demonstrações das Sprints
 
