@@ -101,15 +101,11 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+#### Cronograma das Sprints![image](https://github.com/emilynn16/Miltech-/assets/143456900/c19ff4c3-595e-48b4-b6ab-40a91d03b995)
 
 
 ## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
-</p>
+>  Ferramentas fundamentais para o desenvolvimento ágil, ajudando os membros a organizar e priorizar o trabalho de forma eficiente.(oferecer os calculos e novas ideias) (oferecemos em forma de apresentações)
 
 ## Burndown
 >Colocar aqui Burndown do projeto
